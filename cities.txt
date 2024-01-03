@@ -1,0 +1,942 @@
+Aarhus 56°09′N 10°13′E  Denmark 
+Aberdeen 57°09′N 2°07′W  United Kingdom
+Abidjan 5°19′N 4°02′W  Ivory Coast
+Abu Dhabi 24°28′N 54°22′E  United Arab Emirates
+Abuja 9°04′N 7°29′E  Nigeria 
+Acapulco 16°52′N 99°53′W  Mexico 
+Accra 5°33′N 0°12′W  Ghana 
+Adak 51°53′N 176°39′W  United States
+Adamstown 25°04′S 130°06′W  United Kingdom
+Adana 37°00′N 35°19′E  Turkey 
+Addis Ababa 9°02′N 38°44′E  Ethiopia 
+Adelaide 34°56′S 138°36′E  Australia 
+Agartala 23°50′N 91°16′E  India 
+Agra 27°11′N 78°01′E  India 
+Aguascalientes 21°53′N 102°18′W  Mexico 
+Ahmedabad 23°02′N 72°35′E  India 
+Akureyri 65°41′N 18°06′W  Iceland 
+Alajuela 10°01′N 84°13′W  Costa Rica
+Albuquerque 35°07′N 106°37′W  United States
+Alert 82°30′N 62°20′W  Canada 
+Alexandria 31°12′N 29°55′E  Egypt 
+Algiers 36°46′N 3°13′E  Algeria 
+Almaty 43°17′N 76°54′E  Kazakhstan 
+Alofi 19°03′S 169°55′W  New Zealand
+Alor Setar 6°07′N 100°22′E  Malaysia 
+Ambon 3°42′S 128°10′E  Indonesia 
+Amman 31°56′N 35°56′E  Jordan 
+Amritsar 31°38′N 74°52′E  India 
+Amsterdam 52°22′N 4°54′E  Netherlands 
+Anadyr 64°44′N 177°31′E  Russia 
+Anchorage 61°13′N 149°54′W  United States
+Andorra la Vella 42°30′N 1°30′E  Andorra 
+Angra do Heroísmo 38°29′N 27°13′W  Portugal 
+Ankara 39°56′N 32°52′E  Turkey 
+Antananarivo 18°56′S 47°31′E  Madagascar 
+Antofagasta 23°39′S 70°24′W  Chile 
+Antwerp 51°13′N 4°24′E  Belgium 
+Apia 13°50′S 171°45′W  Samoa 
+Aracaju 10°55′S 37°03′W  Brazil 
+Araraquara 21°48′S 48°11′W  Brazil 
+Arequipa 16°24′S 71°32′W  Peru 
+Arica 18°29′S 70°20′W  Chile 
+Arkhangelsk 64°32′N 40°32′E  Russia 
+Ashgabat 37°56′N 58°22′E  Turkmenistan 
+Asmara 15°20′N 38°56′E  Eritrea 
+Assis 22°40′S 50°25′W  Brazil 
+Astana 51°10′N 71°26′E  Kazakhstan 
+Asunción 25°17′S 57°38′W  Paraguay 
+Athena 37°58′N 23°43′E  Greece 
+Atlanta 33°45′N 84°23′W  United States
+Auckland 36°50′S 174°44′E  New Zealand
+Augusta 44°19′N 69°47′W  United States
+Austin 30°15′N 97°45′W  United States
+Avarua 21°12′S 159°46′W  New Zealand
+Ayacucho 13°10′S 74°13′W  Peru 
+Baghdad 33°20′N 44°26′E  Iraq 
+Bahía Blanca 38°43′S 62°16′W  Argentina 
+Baku 40°24′N 49°53′E  Azerbaijan 
+Balikpapan 1°16′S 116°50′E  Indonesia 
+Baltimore 39°17′N 76°37′W  United States
+Bamako 12°39′N 8°00′W  Mali 
+Banda Aceh 5°33′N 95°19′E  Indonesia 
+Bandar Seri Begawan 4°53′N 114°57′E  Brunei 
+Bandung 6°55′S 107°37′E  Indonesia 
+Bangalore 12°58′N 77°34′E  India 
+Bangkok 13°45′N 100°28′E  Thailand 
+Bangui 4°22′N 18°35′E  Central African Republic
+Banjul 13°27′N 16°35′W  Gambia 
+Barcelona 41°23′N 2°11′E  Spain 
+Barranquilla 10°58′N 74°48′W  Colombia 
+Barrow 71°18′N 156°46′W  United States
+Basel 47°34′N 7°36′E  Switzerland 
+Basra 30°30′N 47°49′E  Iraq 
+Basse-Terre 16°00′N 61°44′W  France 
+Basseterre 17°18′N 62°44′W  Saint Kitts and Nevis
+Bath 51°23′N 2°22′W  United Kingdom
+Batticaloa 7°43′N 81°42′E  Sri Lanka
+Bauru 22°19′S 49°04′W  Brazil 
+Beijing 39°55′N 116°23′E  People's Republic of China
+Beirut 33°53′N 35°31′E  Lebanon 
+Belfast 54°36′N 5°56′W  United Kingdom
+Belgrade 44°49′N 20°28′E  Serbia 
+Belize City 17°30′N 88°11′W  Belize 
+Belmopan 17°15′N 88°46′W  Belize 
+Belo Horizonte 19°55′S 43°56′W  Brazil 
+Belém 1°27′S 48°30′W  Brazil 
+Benghazi 32°07′N 20°04′E  Libya 
+Benin City 6°19′N 5°36′E  Nigeria 
+Bergen 60°23′N 5°20′E  Norway 
+Berlin 52°31′N 13°23′E  Germany 
+Bern 46°57′N 7°27′E  Switzerland 
+Bhisho 32°51′S 27°26′E  South Africa
+Bilbao 43°15′N 2°55′W  Spain 
+Birkirkara 35°54′N 14°28′E  Malta 
+Birmingham 52°29′N 1°54′W  United Kingdom
+Bishkek 42°52′N 74°37′E  Kyrgyzstan 
+Bismarck 46°49′N 100°47′W  United States
+Bissau 11°51′N 15°34′W  Guinea-Bissau 
+Blantyre 15°47′S 35°00′E  Malawi 
+Bloemfontein 29°07′S 26°13′E  South Africa
+Boa Vista 2°49′N 60°40′W  Brazil 
+Bobo-Dioulasso 11°11′N 4°17′W  Burkina Faso
+Boden 65°50′N 21°43′E  Sweden 
+Bodø 67°18′N 14°33′E  Norway 
+Bogor 6°36′S 106°48′E  Indonesia 
+Bogotá 4°36′N 74°05′W  Colombia 
+Boise 43°37′N 116°12′W  United States
+Bologna 44°30′N 11°21′E  Italy 
+Bordeaux 44°50′N 0°35′W  France 
+Boston 42°21′N 71°04′W  United States
+Boulder 40°01′N 105°17′W  United States
+Bradford 53°48′N 1°45′W  United Kingdom
+Brasília 15°48′S 47°52′W  Brazil 
+Bratislava 48°09′N 17°07′E  Slovakia 
+Bratsk 56°07′N 101°36′E  Russia 
+Brazzaville 4°16′S 15°18′E  Republic of the Congo
+Bremen 53°05′N 8°48′E  Germany 
+Brest 48°23′N 4°29′W  France 
+Bridgetown 13°06′N 59°37′W  Barbados 
+Brighton and Hove 50°50′N 0°09′W  United Kingdom
+Brikama 13°16′N 16°39′W  Gambia 
+Brisbane 27°28′S 153°02′E  Australia 
+Bristol 51°27′N 2°35′W  United Kingdom
+Brussels 50°51′N 4°21′E  Belgium 
+Bucharest 44°26′N 26°06′E  Romania 
+Budapest 47°28′N 19°03′E  Hungary 
+Buenos Aires 34°36′S 58°23′W  Argentina 
+Buffalo 42°54′N 78°51′W  United States
+Bujumbura 3°23′S 29°22′E  Burundi 
+Bulawayo 20°10′S 28°35′E  Zimbabwe 
+Bursa 40°11′N 29°03′E  Turkey 
+Busan 35°11′N 129°05′E  South Korea
+Cabo San Lucas 22°53′N 109°55′W  Mexico 
+Cagliari 39°15′N 9°03′E  Italy 
+Cairns 16°56′S 145°47′E  Australia 
+Cairo 30°03′N 31°14′E  Egypt 
+Calais 50°57′N 1°51′E  France 
+Calama 22°28′S 68°56′W  Chile 
+Calgary 51°03′N 114°04′W  Canada 
+Cambridge 52°12′N 0°07′E  United Kingdom
+Campina Grande 7°14′S 35°53′W  Brazil 
+Campinas 22°54′S 47°03′W  Brazil 
+Campo Grande 20°28′S 54°37′W  Brazil 
+Canberra 35°18′S 149°07′E  Australia 
+Cancún 21°10′N 86°51′W  Mexico 
+Cannes 43°33′N 7°01′E  France 
+Cape Town 33°56′S 18°25′E  South Africa
+Caracas 10°30′N 66°55′W  Venezuela 
+Cardiff 51°29′N 3°11′W  United Kingdom
+Cartagena 10°24′N 75°30′W  Colombia 
+Caruaru 8°17′S 35°59′W  Brazil 
+Casablanca 33°32′N 7°35′W  Morocco 
+Castries 14°01′N 60°59′W  Saint Lucia
+Catania 37°30′N 15°05′E  Italy 
+Cayenne 4°55′N 52°20′W  France 
+Cebu City 10°17′N 123°54′E  Philippines 
+Chaguanas 10°30′N 61°23′W  Trinidad and Tobago
+Chandigarh 30°45′N 76°47′E  India 
+Changchun 43°54′N 125°12′E  People's Republic of China
+Charleroi 50°24′N 4°26′E  Belgium 
+Charleston 38°21′N 81°38′W  United States
+Charlotte 35°14′N 80°51′W  United States
+Charlotte Amalie 18°21′N 64°57′W  United States
+Charlottetown 46°14′N 63°09′W  Canada 
+Chelyabinsk 55°09′N 61°23′E  Russia 
+Chengdu 30°40′N 104°04′E  People's Republic of China
+Chennai (Madras) 13°05′N 80°16′E  India 
+Cheyenne 41°09′N 104°48′W  United States
+Chiang Mai 18°48′N 99°00′E  Thailand 
+Chiang Rai 19°55′N 99°50′E  Thailand 
+Chicago 41°53′N 87°38′W  United States
+Chihuahua 28°38′N 106°05′W  Mexico 
+Chinandega 12°37′N 87°09′W  Nicaragua 
+Chittagong 22°22′N 91°48′E  Bangladesh 
+Chişinău 47°00′N 28°55′E  Moldova 
+Chongjin 41°48′N 129°47′E  North Korea
+Chongqing 29°34′N 106°34′E  People's Republic of China
+Christchurch 43°32′S 172°37′E  New Zealand
+Chuí 33°41′S 53°27′W  Brazil 
+Cincinnati 39°06′N 84°31′W  United States
+Ciudad Bolívar 8°07′N 63°33′W  Venezuela 
+Ciudad Juárez 31°44′N 106°29′W  Mexico 
+Ciudad del Este 25°31′S 54°37′W  Paraguay 
+Cleveland 41°29′N 81°40′W  United States
+Cluj-Napoca 46°46′N 23°35′E  Romania 
+Cockburn Town 21°28′N 71°08′W  United Kingdom
+Coihaique 45°34′S 72°04′W  Chile 
+Cologne 50°56′N 6°58′E  Germany 
+Colombo 6°56′N 79°51′E  Sri Lanka
+Columbia 34°00′N 81°03′W  United States
+Columbus 39°59′N 82°59′W  United States
+Comodoro Rivadavia 45°52′S 67°29′W  Argentina 
+Conakry 9°31′N 13°43′W  Guinea 
+Concepción 36°50′S 73°03′W  Chile 
+Concord 43°12′N 71°32′W  United States
+Copenhagen 55°41′N 12°34′E  Denmark 
+Copiapó 27°22′S 70°20′W  Chile 
+Cork 51°54′N 8°28′W  Ireland 
+Cotonou 6°22′N 2°26′E  Benin 
+Coventry 52°24′N 1°31′W  United Kingdom
+Craiova 44°20′N 23°49′E  Romania 
+Cuiabá 15°36′S 56°06′W  Brazil 
+Culiacán 24°48′N 107°23′W  Mexico 
+Curitiba 25°25′S 49°15′W  Brazil 
+Cusco 13°32′S 71°58′W  Peru 
+Córdoba 31°25′S 64°11′W  Argentina 
+Cúcuta 7°54′N 72°30′W  Colombia 
+Da Nang 16°04′N 108°14′E  Vietnam 
+Daegu 35°52′N 128°36′E  South Korea
+Dakar 14°42′N 17°27′W  Senegal 
+Dalian 38°55′N 121°38′E  People's Republic of China
+Dallas 32°47′N 96°48′W  United States
+Damascus 33°31′N 36°18′E  Syria 
+Dammam 26°17′N 50°12′E  Saudi Arabia
+Dar es Salaam 6°48′S 39°17′E  Tanzania 
+Darwin 12°27′S 130°50′E  Australia 
+Davao City 7°04′N 125°36′E  Philippines 
+Deadhorse 70°12′N 148°31′W  United States
+Dededo 13°31′N 144°50′E  United States
+Denpasar 8°39′S 115°13′E  Indonesia 
+Denver 39°44′N 104°59′W  United States
+Des Moines 41°35′N 93°37′W  United States
+Detroit 42°20′N 83°03′W  United States
+Dhaka 23°42′N 90°23′E  Bangladesh 
+Dibrugarh 27°29′N 95°00′E  India 
+Dili 8°33′S 125°35′E  Timor-Leste 
+Djibouti 11°35′N 43°09′E  Djibouti 
+Dodoma 6°10′S 35°45′E  Tanzania 
+Doha 25°17′N 51°32′E  Qatar 
+Dongguan 23°02′N 113°43′E  People's Republic of China
+Douala 4°03′N 9°42′E  Cameroon 
+Douglas 54°09′N 4°29′W  United Kingdom
+Dover 39°10′N 75°32′W  United States
+Dresden 51°02′N 13°44′E  Germany 
+Dubai 25°15′N 55°18′E  United Arab Emirates
+Dublin 53°21′N 6°16′W  Ireland 
+Dundee 56°28′N 2°58′W  United Kingdom
+Dunedin 45°52′S 170°30′E  New Zealand
+Durango 24°01′N 104°40′W  Mexico 
+Durban 29°53′S 31°03′E  South Africa
+Dushanbe 38°32′N 68°47′E  Tajikistan 
+Düsseldorf 51°14′N 6°47′E  Germany 
+Edinburgh 55°57′N 3°11′W  United Kingdom
+Edmonton 53°32′N 113°30′W  Canada 
+Eilat 29°33′N 34°57′E  Israel 
+El Aaiún 27°09′N 13°12′W  Morocco 
+El Paso 31°47′N 106°25′W  United States
+Enschede 52°13′N 6°54′E  Netherlands 
+Ensenada 31°51′N 116°36′W  Mexico 
+Entebbe 0°03′N 32°28′E  Uganda 
+Enugu 6°27′N 7°31′E  Nigeria 
+Erbil 36°11′N 44°01′E  Iraq 
+Esbjerg 55°29′N 8°27′E  Denmark 
+Eskisehir 39°47′N 30°31′E  Turkey 
+Espoo 60°12′N 24°39′E  Finland 
+Eureka 79°59′N 85°56′W  Canada 
+Exeter 50°43′N 3°32′W  United Kingdom
+Fairbanks 64°51′N 147°43′W  United States
+Faisalabad 31°25′N 73°05′E  Pakistan 
+Fernando de Noronha 3°51′S 32°25′W  Brazil 
+Florence 43°47′N 11°15′E  Italy 
+Flores Island 39°28′N 31°14′W  Portugal 
+Florianópolis 27°50′S 48°25′W  Brazil 
+Forked River 39°48′N 74°06′W  United States
+Fort McMurray 56°44′N 111°23′W  Canada 
+Fort Wayne 41°05′N 85°08′W  United States
+Fort-de-France 14°36′N 61°05′W  France 
+Fortaleza 3°43′S 38°33′W  Brazil 
+Francistown 21°10′S 27°31′E  Botswana 
+Frankfurt am Main 50°07′N 8°41′E  Germany 
+Fredericton 45°57′N 66°40′W  Canada 
+Freetown 8°29′N 13°14′W  Sierra Leone
+Fukuoka 33°35′N 130°24′E  Japan 
+Funafuti 8°31′S 179°13′E  Tuvalu 
+Funchal 32°39′N 16°55′W  Portugal 
+Gaborone 24°39′S 25°55′E  Botswana 
+Gangtok 27°20′N 88°37′E  India 
+Garanhuns 8°53′S 36°30′W  Brazil 
+Gaza 31°31′N 34°27′E  Palestine 
+Gaziantep 37°04′N 37°23′E  Turkey 
+Gdańsk 54°22′N 18°38′E  Poland 
+Gdynia 54°30′N 18°33′E  Poland 
+Geelong 38°09′S 144°21′E  Australia 
+Geneva 46°12′N 6°09′E  Switzerland 
+George Town 5°25′N 100°19′E  Malaysia 
+Georgetown 6°48′N 58°10′W  Guyana 
+Ghent 51°03′N 3°44′E  Belgium 
+Gibraltar 36°08′N 5°21′W  United Kingdom
+Glasgow 55°51′N 4°16′W  United Kingdom
+Gloucester 51°52′N 2°14′W  United Kingdom
+Goiânia 16°40′S 49°15′W  Brazil 
+Gold Coast 28°01′S 153°24′E  Australia 
+Gothenburg 57°42′N 11°58′E  Sweden 
+Governador Valadares 18°51′S 41°56′W  Brazil 
+Grande Prairie 55°10′N 118°48′W  Canada 
+Graz 47°04′N 15°26′E  Austria 
+Grise Fiord 76°25′N 82°54′W  Canada 
+Groningen 53°13′N 6°33′E  Netherlands 
+Grytviken 54°17′S 36°30′W  United Kingdom
+Guadalajara 20°40′N 103°21′W  Mexico 
+Guangzhou 23°08′N 113°16′E  People's Republic of China
+Guatemala City 14°37′N 90°32′W  Guatemala 
+Guayaquil 2°11′S 79°53′W  Ecuador 
+Guwahati 26°11′N 91°44′E  India 
+Gweru 19°27′S 29°48′E  Zimbabwe 
+Haarlem 52°23′N 4°38′E  Netherlands 
+Hagåtña 13°29′N 144°45′E  United States
+Hai Phong 20°51′N 106°41′E  Vietnam 
+Halifax 44°51′N 63°12′W  Canada 
+Halkida 38°28′N 23°36′E  Greece 
+Hamburg 53°34′N 10°00′E  Germany 
+Hamilton 37°47′S 175°17′E  New Zealand
+Hammerfest 70°40′N 23°41′E  Norway 
+Handan 36°36′N 114°29′E  People's Republic of China
+Hanga Roa 27°09′S 109°26′W  Chile 
+Hangzhou 30°15′N 120°10′E  People's Republic of China
+Hannover 52°22′N 9°43′E  Germany 
+Hanoi 21°02′N 105°51′E  Vietnam 
+Haparanda 65°50′N 24°08′E  Sweden 
+Harare 17°52′S 31°02′E  Zimbabwe 
+Harbin 45°45′N 126°38′E  People's Republic of China
+Hargeisa 9°34′N 44°04′E  Somalia 
+Hartford 41°46′N 72°40′W  United States
+Hastings 39°39′S 176°50′E  New Zealand
+Hat Yai 7°01′N 100°28′E  Thailand 
+Havana 23°08′N 82°23′W  Cuba 
+Helena 46°36′N 112°02′W  United States
+Helsinki 60°10′N 24°56′E  Finland 
+Heraklion 35°20′N 25°08′E  Greece 
+Hermosillo 29°06′N 110°57′W  Mexico 
+Hilo 19°42′N 155°05′W  United States
+Hiroshima 34°23′N 132°27′E  Japan 
+Ho Chi Minh City 10°46′N 106°41′E  Vietnam 
+Hobart 42°53′S 147°20′E  Australia 
+Hong Kong 22°17′N 114°10′E  People's Republic of China
+Honiara 9°28′S 159°49′E  Solomon Islands
+Honolulu 21°19′N 157°50′W  United States
+Horta 38°35′N 28°43′W  Portugal 
+Houston 29°46′N 95°23′W  United States
+Huambo 12°46′S 15°44′E  Angola 
+Huế 16°28′N 107°35′E  Vietnam 
+Hyderabad 17°22′N 78°29′E  India 
+Ibadan 7°24′N 3°55′E  Nigeria 
+Ibiza 38°59′N 1°26′E  Spain 
+Ilhéus 14°47′S 39°03′W  Brazil 
+Iloilo City 10°43′N 122°34′E  Philippines 
+Imperatriz 5°32′S 47°29′W  Brazil 
+Incheon 37°29′N 126°38′E  South Korea
+Indianapolis 39°46′N 86°09′W  United States
+Innsbruck 47°16′N 11°23′E  Austria 
+Invercargill 46°25′S 168°21′E  New Zealand
+Inverness 57°28′N 4°14′W  United Kingdom
+Ipoh 4°36′N 101°04′E  Malaysia 
+Iqaluit 63°45′N 68°31′W  Canada 
+Iquique 20°13′S 70°09′W  Chile 
+Iquitos 3°44′S 73°15′W  Peru 
+Irkutsk 52°19′N 104°18′E  Russia 
+Isfahan 32°38′N 51°39′E  Iran 
+Islamabad 33°43′N 73°04′E  Pakistan 
+Istanbul 41°01′N 28°57′E  Turkey 
+Izhevsk 56°50′N 53°11′E  Russia 
+Jackson 32°18′N 90°11′W  United States
+Jacksonville 30°20′N 81°40′W  United States
+Jaipur 26°56′N 75°49′E  India 
+Jakarta 6°12′S 106°48′E  Indonesia 
+Jamestown 15°55′S 5°43′W  United Kingdom
+Jayapura 2°32′S 140°43′E  Indonesia 
+Jeddah 21°33′N 39°10′E  Saudi Arabia
+Jersey City 40°43′N 74°04′W  United States
+Jerusalem 31°47′N 35°13′E  Israel 
+Jinan 36°40′N 116°59′E  People's Republic of China
+Johannesburg 26°12′S 28°03′E  South Africa
+Johor Bahru 1°29′N 103°44′E  Malaysia 
+João Pessoa 7°05′S 34°50′W  Brazil 
+Juazeiro do Norte 7°12′S 39°20′W  Brazil 
+Juba 4°51′N 31°36′E  South Sudan
+Juiz de Fora 21°46′S 43°21′W  Brazil 
+Juneau 58°18′N 134°25′W  United States
+Jyväskylä 62°15′N 25°45′E  Finland 
+Kabul 34°32′N 69°10′E  Afghanistan 
+Kaesong 37°58′N 126°33′E  North Korea
+Kaliningrad 54°43′N 20°31′E  Russia 
+Kamloops 50°41′N 120°20′W  Canada 
+Kampala 0°19′N 32°35′E  Uganda 
+Kandahar 31°37′N 65°43′E  Afghanistan 
+Kandy 7°18′N 80°38′E  Sri Lanka
+Kano 12°00′N 8°31′E  Nigeria 
+Kanpur 26°28′N 80°20′E  India 
+Kansas City 39°06′N 94°35′W  United States
+Kaohsiung 22°38′N 120°16′E  Republic of China (Taiwan)
+Karachi 24°52′N 67°01′E  Pakistan 
+Kathmandu 27°42′N 85°20′E  Nepal 
+Kawasaki 35°31′N 139°42′E  Japan 
+Kazan 55°47′N 49°08′E  Russia 
+Kelowna 49°53′N 119°30′W  Canada 
+Kemi 65°44′N 24°34′E  Finland 
+Kemijärvi 66°43′N 27°26′E  Finland 
+Key West 24°34′N 81°47′W  United States
+Kharkiv 50°00′N 36°14′E  Ukraine 
+Khartoum 15°38′N 32°32′E  Sudan 
+Khon Kaen 16°26′N 102°50′E  Thailand 
+Kiel 54°20′N 10°08′E  Germany 
+Kiev 50°27′N 30°31′E  Ukraine 
+Kigali 1°57′S 30°04′E  Rwanda 
+Kimberley 28°45′S 24°46′E  South Africa
+Kingston 29°04′S 167°58′E  Australia 
+Kingstown 13°09′N 61°14′W  Saint Vincent and the Grenadines
+Kinshasa 4°20′S 15°19′E  Democratic Republic of the Congo
+Kirkuk 35°28′N 44°19′E  Iraq 
+Kiruna 67°51′N 20°13′E  Sweden 
+Kismayo 0°21′S 42°33′E  Somalia 
+Knoxville 35°58′N 83°57′W  United States
+Kochi 9°58′N 76°17′E  India 
+Kolkata (Calcutta) 22°34′N 88°22′E  India 
+Konya 37°52′N 32°29′E  Turkey 
+Koror City 7°22′N 134°29′E  Palau 
+Kota Bharu 6°08′N 102°15′E  Malaysia 
+Kota Kinabalu 5°58′N 116°06′E  Malaysia 
+Koulikoro 12°52′N 7°34′W  Mali 
+Kraków 50°04′N 19°56′E  Poland 
+Krasnodar 45°02′N 38°58′E  Russia 
+Krasnoyarsk 56°01′N 93°04′E  Russia 
+Kristiansand 58°10′N 8°00′E  Norway 
+Kuala Lumpur 3°09′N 101°42′E  Malaysia 
+Kuching 1°34′N 110°21′E  Malaysia 
+Kulpahar 25°19′N 79°38′E  India 
+Kumasi 6°40′N 1°37′W  Ghana 
+Kunming 25°04′N 102°41′E  People's Republic of China
+Kuopio 62°54′N 27°41′E  Finland 
+Kuusamo 65°58′N 29°11′E  Finland 
+Kuwait City 29°22′N 47°59′E  Kuwait 
+Kyoto 35°01′N 135°46′E  Japan 
+Kōbe 34°41′N 135°12′E  Japan 
+La Paz 16°30′S 68°09′W  Bolivia 
+La Serena 29°54′S 71°15′W  Chile 
+Labasa 16°26′S 179°22′E  Fiji 
+Lagos 6°27′N 3°24′E  Nigeria 
+Lahore 31°33′N 74°21′E  Pakistan 
+Lahti 60°59′N 25°39′E  Finland 
+Lanzhou 36°02′N 103°48′E  People's Republic of China
+Las Palmas de Gran Canaria 28°09′N 15°25′W  Spain 
+Las Vegas 36°11′N 115°08′W  United States
+Latakia 35°31′N 35°47′E  Syria 
+Lausanne 46°31′N 6°38′E  Switzerland 
+Le Havre 49°29′N 0°06′E  France 
+Leeds 53°48′N 1°33′W  United Kingdom
+Leicester 52°38′N 1°08′W  United Kingdom
+Leiden 52°10′N 4°29′E  Netherlands 
+Leipzig 51°20′N 12°23′E  Germany 
+León 21°07′N 101°41′W  Mexico 
+Lhasa 29°39′N 91°06′E  People's Republic of China
+Liberia 10°38′N 85°26′W  Costa Rica
+Libreville 0°23′N 9°27′E  Gabon 
+Lillehammer 61°08′N 10°26′E  Norway 
+Lilongwe 13°59′S 33°47′E  Malawi 
+Lima 12°03′S 77°02′W  Peru 
+Limón 9°59′N 83°02′W  Costa Rica
+Lincoln 40°49′N 96°41′W  United States
+Linz 48°18′N 14°17′E  Austria 
+Lisbon 38°43′N 9°08′W  Portugal 
+Little Rock 34°44′N 92°20′W  United States
+Liverpool 53°24′N 2°59′W  United Kingdom
+Livingstone 17°51′S 25°52′E  Zambia 
+Ljubljana 46°03′N 14°31′E  Slovenia 
+Lleida 41°37′N 0°38′E  Spain 
+Lobamba 26°25′S 31°10′E  Swaziland 
+Lomé 6°08′N 1°13′E  Togo 
+London 51°30′N 0°08′W  United Kingdom
+Longyearbyen 78°13′N 15°39′E  Norway 
+Los Alamos 35°53′N 106°18′W  United States
+Los Angeles 34°03′N 118°15′W  United States
+Louisville 38°15′N 85°46′W  United States
+Luanda 8°50′S 13°14′E  Angola 
+Lubumbashi 11°40′S 27°28′E  Democratic Republic of the Congo
+Lucknow 26°51′N 80°57′E  India 
+Ludhiana 30°55′N 75°51′E  India 
+Luleå 65°35′N 22°09′E  Sweden 
+Lusaka 15°25′S 28°17′E  Zambia 
+Luxembourg 49°37′N 6°07′E  Luxembourg 
+Luxor 25°41′N 32°39′E  Egypt 
+Lviv 49°51′N 24°01′E  Ukraine 
+Lyon 45°46′N 4°51′E  France 
+Maastricht 50°51′N 5°41′E  Netherlands 
+Macapá 0°02′N 51°04′W  Brazil 
+Macau 22°10′N 113°33′E  People's Republic of China
+Maceió 9°40′S 35°44′W  Brazil 
+Madrid 40°23′N 3°43′W  Spain 
+Mafikeng 25°51′S 25°38′E  South Africa
+Magadan 59°34′N 150°48′E  Russia 
+Majuro 7°04′N 171°16′E  Marshall Islands
+Makassar 5°08′S 119°25′E  Indonesia 
+Makati 14°33′N 121°02′E  Philippines 
+Malabo 3°45′N 8°47′E  Equatorial Guinea
+Malacca Town 2°12′N 102°15′E  Malaysia 
+Malang 7°59′S 112°37′E  Indonesia 
+Malmö 55°35′N 13°02′E  Sweden 
+Malé 4°11′N 73°31′E  Maldives 
+Mamoudzou 12°47′S 45°14′E  France 
+Managua 12°08′N 86°15′W  Nicaragua 
+Manama 26°13′N 50°35′E  Bahrain 
+Manaus 3°06′S 60°01′W  Brazil 
+Manchester 53°28′N 2°14′W  United Kingdom
+Mandurah 32°32′S 115°43′E  Australia 
+Manila 14°35′N 120°58′E  Philippines 
+Manzini 26°29′S 31°22′E  Swaziland 
+Maputo 25°58′S 32°35′E  Mozambique 
+Maracaibo 10°39′N 71°38′W  Venezuela 
+Maracay 10°15′N 67°36′W  Venezuela 
+Marrakech 31°38′N 8°01′W  Morocco 
+Marseille 43°18′N 5°22′E  France 
+Maseru 29°19′S 27°29′E  Lesotho 
+Mashhad 36°18′N 59°36′E  Iran 
+Mata-Utu 13°17′S 176°11′W  France 
+Mbabane 26°19′S 31°08′E  Swaziland 
+Mecca 21°25′N 39°49′E  Saudi Arabia
+Medan 3°35′N 98°40′E  Indonesia 
+Medellín 6°14′N 75°35′W  Colombia 
+Medina 24°28′N 39°36′E  Saudi Arabia
+Melbourne 37°49′S 144°58′E  Australia 
+Melekeok 7°29′N 134°36′E  Palau 
+Memphis 35°07′N 89°58′W  United States
+Mendoza 32°53′S 68°49′W  Argentina 
+Mersin 36°48′N 34°38′E  Turkey 
+Messina 38°11′N 15°33′E  Italy 
+Mexicali 32°40′N 115°28′W  Mexico 
+Mexico City 19°26′N 99°08′W  Mexico 
+Miami 25°47′N 80°13′W  United States
+Milan 45°28′N 9°11′E  Italy 
+Milwaukee 43°03′N 87°57′W  United States
+Minneapolis 44°59′N 93°16′W  United States
+Minsk 53°54′N 27°34′E  Belarus 
+Miri 4°24′N 114°00′E  Malaysia 
+Mobile 30°42′N 88°03′W  United States
+Mogadishu 2°02′N 45°21′E  Somalia 
+Mombasa 4°03′S 39°40′E  Kenya 
+Monaco 43°44′N 7°25′E  Monaco 
+Moncton 46°08′N 64°46′W  Canada 
+Monrovia 6°19′N 10°48′W  Liberia 
+Monterrey 25°40′N 100°18′W  Mexico 
+Montevideo 34°53′S 56°11′W  Uruguay 
+Montpelier 44°15′N 72°34′W  United States
+Montreal 45°30′N 73°34′W  Canada 
+Moroni 11°45′S 43°12′E  Comoros 
+Moscow 55°45′N 37°37′E  Russia 
+Mosul 36°20′N 43°08′E  Iraq 
+Moundou 8°34′N 16°05′E  Chad 
+Multan 30°12′N 71°28′E  Pakistan 
+Mumbai (Bombay) 18°59′N 72°50′E  India 
+Munich 48°08′N 11°34′E  Germany 
+Murmansk 68°58′N 33°05′E  Russia 
+Muscat 23°37′N 58°36′E  Oman 
+Mutare 18°58′S 32°38′E  Zimbabwe 
+Mwanza 2°31′S 32°54′E  Tanzania 
+Málaga 36°43′N 4°25′W  Spain 
+Mérida 20°58′N 89°37′W  Mexico 
+N'Djamena 12°07′N 15°03′E  Chad 
+Nagoya 35°11′N 136°54′E  Japan 
+Nagpur 21°08′N 79°05′E  India 
+Naha 26°13′N 127°41′E  Japan 
+Nairobi 1°17′S 36°49′E  Kenya 
+Nakhon Ratchasima 14°59′N 102°06′E  Thailand 
+Namangan 41°00′N 71°40′E  Uzbekistan 
+Nanjing 32°03′N 118°46′E  People's Republic of China
+Nanning 22°49′N 108°19′E  People's Republic of China
+Nantes 47°13′N 1°33′W  France 
+Naples 40°51′N 14°16′E  Italy 
+Narvik 68°25′N 17°34′E  Norway 
+Nashville 36°10′N 86°47′W  United States
+Nassau 25°04′N 77°20′W  Bahamas 
+Natal 5°47′S 35°12′W  Brazil 
+Naypyidaw 19°45′N 96°06′E  Myanmar 
+Ndola 12°58′S 28°38′E  Zambia 
+Nelson 41°16′S 173°17′E  New Zealand
+Nelspruit 25°28′S 30°59′E  South Africa
+Nemuro 43°20′N 145°35′E  Japan 
+New Delhi 28°37′N 77°13′E  India 
+New Orleans 29°58′N 90°03′W  United States
+New York City 40°40′N 73°56′W  United States
+Newcastle 32°55′S 151°45′E  Australia 
+Newcastle upon Tyne 54°58′N 1°37′W  United Kingdom
+Niamey 13°31′N 2°06′E  Niger 
+Nice 43°42′N 7°16′E  France 
+Nicosia 35°10′N 33°22′E  Cyprus 
+Nizhny Novgorod 56°20′N 44°00′E  Russia 
+Nord 81°36′N 16°40′W  Denmark 
+Norilsk 69°20′N 88°13′E  Russia 
+Norrköping 58°36′N 16°12′E  Sweden 
+North Bay 46°18′N 79°27′W  Canada 
+Norwich 52°38′N 1°18′E  United Kingdom
+Nottingham 52°57′N 1°08′W  United Kingdom
+Nouakchott 18°06′N 15°57′W  Mauritania 
+Nouméa 22°17′S 166°27′E  France 
+Novi Sad 45°15′N 19°51′E  Serbia 
+Novosibirsk 55°01′N 82°56′E  Russia 
+Nukulaelae 9°23′S 179°51′E  Tuvalu 
+Nukus 42°28′N 59°36′E  Uzbekistan 
+Nukuʻalofa 21°08′S 175°12′W  Tonga 
+Nuorgam 70°05′N 27°53′E  Finland 
+Nuuk (Godthåb) 64°11′N 51°44′W  Denmark 
+Ny-Ålesund 78°55′N 11°56′E  Norway 
+Nzérékoré 7°45′N 8°49′W  Guinea 
+Odense 55°24′N 10°23′E  Denmark 
+Odessa 46°28′N 30°44′E  Ukraine 
+Oklahoma City 35°29′N 97°32′W  United States
+Omdurman 15°39′N 32°29′E  Sudan 
+Omsk 54°59′N 73°22′E  Russia 
+Oranjestad 12°31′N 70°02′W  Netherlands 
+Orlando 28°25′N 81°18′W  United States
+Orléans 47°54′N 1°55′E  France 
+Osaka 34°42′N 135°30′E  Japan 
+Oslo 59°57′N 10°45′E  Norway 
+Ottawa 45°25′N 75°41′W  Canada 
+Ouagadougou 12°21′N 1°32′W  Burkina Faso
+Oulu 65°01′N 25°28′E  Finland 
+Oxford 51°45′N 1°15′W  United Kingdom
+Padang 0°57′S 100°21′E  Indonesia 
+Pago Pago 14°17′S 170°42′W  United States
+Palembang 2°59′S 104°45′E  Indonesia 
+Palermo 38°07′N 13°22′E  Italy 
+Palikir 6°55′N 158°10′E  Federated States of Micronesia
+Palma 39°34′N 2°39′E  Spain 
+Palmas 10°11′S 48°20′W  Brazil 
+Panama City 8°59′N 79°31′W  Panama 
+Papeete 17°32′S 149°34′W  France 
+Paramaribo 5°52′N 55°10′W  Suriname 
+Paris 48°51′N 2°21′E  France 
+Patna 25°37′N 85°09′E  India 
+Pattaya 12°56′N 100°53′E  Thailand 
+Pekanbaru 0°32′N 101°27′E  Indonesia 
+Pelotas 31°46′S 52°21′W  Brazil 
+Perm 58°00′N 56°19′E  Russia 
+Perth 31°57′S 115°52′E  Australia 
+Peshawar 34°01′N 71°35′E  Pakistan 
+Peterborough 52°35′N 0°15′W  United Kingdom
+Petrolina 9°24′S 40°30′W  Brazil 
+Petropavlovsk-Kamchatsky 53°01′N 158°39′E  Russia 
+Philadelphia 39°57′N 75°10′W  United States
+Phnom Penh 11°33′N 104°55′E  Cambodia 
+Phoenix 33°27′N 112°04′W  United States
+Phra Nakhon Si Ayutthaya 14°21′N 100°34′E  Thailand 
+Phuket 7°53′N 98°24′E  Thailand 
+Pierre 44°22′N 100°20′W  United States
+Pietermaritzburg 29°37′S 30°23′E  South Africa
+Piteå 65°20′N 21°30′E  Sweden 
+Pittsburgh 40°27′N 80°00′W  United States
+Plymouth 50°22′N 4°09′W  United Kingdom
+Podgorica 42°26′N 19°16′E  Montenegro 
+Polokwane 23°54′S 29°27′E  South Africa
+Ponta Delgada 37°49′N 25°45′W  Portugal 
+Pontianak 0°01′S 109°20′E  Indonesia 
+Port Blair 11°40′N 92°46′E  India 
+Port Elizabeth 33°57′S 25°36′E  South Africa
+Port Harcourt 4°45′N 7°00′E  Nigeria 
+Port Hedland 20°19′S 118°36′E  Australia 
+Port Louis 20°10′S 57°30′E  Mauritius 
+Port Moresby 9°31′S 147°13′E  Papua New Guinea
+Port Said 31°15′N 32°17′E  Egypt 
+Port Vila 17°45′S 168°18′E  Vanuatu 
+Port of Spain 10°40′N 61°31′W  Trinidad and Tobago
+Port-au-Prince 18°32′N 72°20′W  Haiti 
+Portland 45°31′N 122°41′W  United States
+Porto 41°10′N 8°37′W  Portugal 
+Porto Alegre 30°02′S 51°14′W  Brazil 
+Porto Velho 8°46′S 63°54′W  Brazil 
+Porto-Novo 6°30′N 2°36′E  Benin 
+Portsmouth 50°49′N 1°05′W  United Kingdom
+Poços de Caldas 21°47′S 46°34′W  Brazil 
+Prague 50°05′N 14°25′E  Czech Republic
+Praia 14°55′N 23°31′W  Cape Verde
+Pretoria 25°45′S 28°11′E  South Africa
+Pristina 42°40′N 21°10′E  Serbia 
+Providence 41°49′N 71°25′W  United States
+Pudasjärvi 65°22′N 27°00′E  Finland 
+Puebla 19°03′N 98°13′W  Mexico 
+Puerto Aisén 45°24′S 72°41′W  Chile 
+Puerto Ayacucho 5°40′N 67°38′W  Venezuela 
+Puerto Montt 41°28′S 72°56′W  Chile 
+Puerto Toro 55°05′S 67°05′W  Chile 
+Puerto Vallarta 20°40′N 105°16′W  Mexico 
+Puerto Williams 54°56′S 67°37′W  Chile 
+Pune 18°31′N 73°51′E  India 
+Punta Arenas 53°10′S 70°56′W  Chile 
+Puntarenas 9°58′N 84°50′W  Costa Rica
+Pyongyang 39°01′N 125°44′E  North Korea
+Qaanaaq 7°28′N 69°14′W  Denmark 
+Qaqortoq 60°43′N 46°02′W  Denmark 
+Qingdao 36°04′N 120°23′E  People's Republic of China
+Quebec City 46°49′N 71°13′W  Canada 
+Querétaro 20°35′N 100°24′W  Mexico 
+Quetzaltenango 14°50′N 91°31′W  Guatemala 
+Quezon City 14°38′N 121°02′E  Philippines 
+Quito 0°15′S 78°35′W  Ecuador 
+Rabat 34°02′N 6°50′W  Morocco 
+Rabi Island 16°30′S 180°00′W  Fiji 
+Raleigh 35°49′N 78°39′W  United States
+Rawalpindi 33°36′N 73°02′E  Pakistan 
+Recife 8°03′S 34°54′W  Brazil 
+Regina 50°27′N 104°36′W  Canada 
+Reno 39°32′N 119°49′W  United States
+Reykjavík 64°08′N 21°56′W  Iceland 
+Ribeirão Preto 21°11′S 47°48′W  Brazil 
+Riga 56°57′N 24°06′E  Latvia 
+Rio Branco 9°58′S 67°49′W  Brazil 
+Rio de Janeiro 22°55′S 43°12′W  Brazil 
+Riverside 33°57′N 117°24′W  United States
+Riyadh 24°38′N 46°43′E  Saudi Arabia
+Road Town 18°26′N 64°37′W  United Kingdom
+Rochester 43°10′N 77°37′W  United States
+Rockhampton 23°23′S 150°31′E  Australia 
+Rome 41°54′N 12°30′E  Italy 
+Rosario 32°57′S 60°40′W  Argentina 
+Roseau 15°18′N 61°23′W  Dominica 
+Rostov-on-Don 47°14′N 39°42′E  Russia 
+Rotterdam 51°56′N 4°29′E  Netherlands 
+Rouen 49°26′N 1°06′E  France 
+Rovaniemi 66°30′N 25°44′E  Finland 
+Río Gallegos 51°38′S 69°13′W  Argentina 
+Sabha 27°02′N 14°26′E  Libya 
+Sacramento 38°33′N 121°28′W  United States
+Saint John 45°17′N 66°05′W  Canada 
+Saint Petersburg 59°57′N 30°18′E  Russia 
+Saint-Denis 20°53′S 55°27′E  France 
+Saint-Pierre 46°47′N 56°11′W  France 
+Saipan 15°11′N 145°45′E  United States
+Salalah 17°01′N 54°05′E  Oman 
+Salt Lake City 40°45′N 111°53′W  United States
+Salta 24°47′S 65°25′W  Argentina 
+Salvador 12°58′S 38°29′W  Brazil 
+Salzburg 47°48′N 13°02′E  Austria 
+Samara 53°12′N 50°08′E  Russia 
+San Antonio 29°25′N 98°30′W  United States
+San Carlos de Bariloche 41°09′S 71°18′W  Argentina 
+San Diego 32°43′N 117°10′W  United States
+San Fernando 10°17′N 61°28′W  Trinidad and Tobago
+San Francisco 37°47′N 122°25′W  United States
+San José 9°56′N 84°05′W  Costa Rica
+San Juan 18°27′N 66°04′W  United States
+San Luis Potosí 22°09′N 100°51′W  Mexico 
+San Marino 43°56′N 12°27′E  San Marino
+San Miguel de Tucumán 26°49′S 65°13′W  Argentina 
+San Salvador 13°41′N 89°11′W  El Salvador
+Sana'a 15°21′N 44°12′E  Yemen 
+Santa Barbara 34°26′N 119°43′W  United States
+Santa Cruz de Tenerife 28°28′N 16°15′W  Spain 
+Santa Cruz de la Sierra 17°48′S 63°10′W  Bolivia 
+Santa Fe 35°40′N 105°58′W  United States
+Santiago 33°27′S 70°40′W  Chile 
+Santiago de Cali 3°25′N 76°31′W  Colombia 
+Santiago de Cuba 20°01′N 75°49′W  Cuba 
+Santo Domingo 18°28′N 69°57′W  Dominican Republic
+Sapporo 43°04′N 141°21′E  Japan 
+Sarajevo 43°51′N 18°21′E  Bosnia and Herzegovina
+Saratov 51°32′N 46°01′E  Russia 
+Sarpsborg 59°17′N 11°12′E  Norway 
+Saskatoon 52°08′N 106°41′W  Canada 
+Sault Ste. Marie 46°32′N 84°21′W  Canada 
+Seattle 47°37′N 122°20′W  United States
+Sekondi-Takoradi 4°55′N 1°46′W  Ghana 
+Semarang 6°58′S 110°25′E  Indonesia 
+Sendai 38°16′N 140°52′E  Japan 
+Seoul 37°34′N 126°59′E  South Korea
+Serekunda 13°26′N 16°40′W  Gambia 
+Sevilla 37°23′N 5°59′W  Spain 
+Sfax 34°44′N 10°46′E  Tunisia 
+Shanghai 31°12′N 121°30′E  People's Republic of China
+Sheffield 53°23′N 1°28′W  United Kingdom
+Shenyang 41°48′N 123°24′E  People's Republic of China
+Shenzhen 22°33′N 114°06′E  People's Republic of China
+Shigatse 29°16′N 88°53′E  People's Republic of China
+Shijiazhuang 38°03′N 114°30′E  People's Republic of China
+Shillong 25°34′N 91°53′E  India 
+Shimla 31°06′N 77°10′E  India 
+Siem Reap 13°22′N 103°52′E  Cambodia 
+Siliguri 26°43′N 88°26′E  India 
+Simferopol 44°57′N 34°06′E  Russia 
+Singapore 1°17′N 103°50′E  Singapore 
+Sinop 11°51′S 55°39′W  Brazil 
+Sitka 57°03′N 135°20′W  United States
+Skellefteå 64°45′N 20°57′E  Sweden 
+Skopje 42°00′N 21°26′E  Macedonia 
+Sobral 3°40′S 40°14′W  Brazil 
+Sochi 43°35′N 39°43′E  Russia 
+Sofia 42°42′N 23°20′E  Bulgaria 
+South Tarawa 1°26′N 173°00′E  Kiribati 
+Southampton 50°54′N 1°24′W  United Kingdom
+Split 43°30′N 16°26′E  Croatia 
+Springfield 37°12′N 93°17′W  United States
+Sri Jayawardenapura-Kotte 6°55′N 79°53′E  Sri Lanka
+Srinagar 34°05′N 74°47′E  India 
+St. George's 12°03′N 61°45′W  Grenada 
+St. John's 17°07′N 61°51′W  Antigua and Barbuda
+St. Louis 38°38′N 90°12′W  United States
+Stanley 51°42′S 57°52′W  United Kingdom
+Stepanakert 39°49′N 46°45′E  Azerbaijan 
+Stjørdal 63°29′N 11°10′E  Norway 
+Stockholm 59°20′N 18°04′E  Sweden 
+Strasbourg 48°35′N 7°45′E  France 
+Stuttgart 48°47′N 9°11′E  Germany 
+Sucre 19°03′S 65°15′W  Bolivia 
+Sudbury 46°29′N 81°01′W  Canada 
+Suez 29°58′N 32°33′E  Egypt 
+Sukhumi 43°00′N 41°01′E  Georgia 
+Sundsvall 62°24′N 17°19′E  Sweden 
+Surabaya 7°16′S 112°45′E  Indonesia 
+Surat 21°10′N 72°50′E  India 
+Surat Thani 9°08′N 99°20′E  Thailand 
+Suva 18°08′S 178°27′E  Fiji 
+Swansea 51°37′N 3°57′W  United Kingdom
+Sydney 33°52′S 151°13′E  Australia 
+São José do Rio Preto 20°48′S 49°23′W  Brazil 
+São José dos Campos 23°11′S 45°53′W  Brazil 
+São Luís 2°32′S 44°18′W  Brazil 
+São Paulo 23°33′S 46°38′W  Brazil 
+São Tomé 0°20′N 6°41′E  São Tomé and Príncipe
+Tabriz 38°04′N 46°18′E  Iran 
+Tagbilaran 9°39′N 123°51′E  Philippines 
+Taichung 24°09′N 120°40′E  Republic of China (Taiwan)
+Tainan 22°59′N 120°11′E  Republic of China (Taiwan)
+Taipei 25°02′N 121°38′E  Republic of China (Taiwan)
+Taiyuan 37°52′N 112°34′E  People's Republic of China
+Tallinn 59°26′N 24°45′E  Estonia 
+Tamale 9°24′N 0°51′W  Ghana 
+Tampa 27°57′N 82°28′W  United States
+Tampere 61°30′N 23°46′E  Finland 
+Tampico 22°15′N 97°52′W  Mexico 
+Tapachula 14°54′N 92°16′W  Mexico 
+Tartu 58°23′N 26°43′E  Estonia 
+Tashkent 41°16′N 69°13′E  Uzbekistan 
+Tbilisi 41°43′N 44°47′E  Georgia 
+Tegucigalpa 14°06′N 87°13′W  Honduras 
+Tehran 35°42′N 51°25′E  Iran 
+Tel Aviv 32°04′N 34°47′E  Israel 
+Temuco 38°45′S 72°40′W  Chile 
+Teresina 5°06′S 42°48′W  Brazil 
+Tezpur 26°38′N 92°48′E  India 
+The Hague 52°05′N 4°19′E  Netherlands 
+The Valley 18°13′N 63°03′W  United Kingdom
+Thessaloniki 40°39′N 22°54′E  Greece 
+Thimphu 27°28′N 89°39′E  Bhutan 
+Thiès 14°47′N 16°55′W  Senegal 
+Thunder Bay 48°23′N 89°15′W  Canada 
+Tianjin 39°08′N 117°11′E  People's Republic of China
+Tiaret 35°22′N 1°19′E  Algeria 
+Tijuana 32°32′N 117°02′W  Mexico 
+Timbuktu 16°47′N 3°01′W  Mali 
+Tirana 41°20′N 19°49′E  Albania 
+Tiraspol 46°51′N 29°38′E  Moldova 
+Tokyo 35°41′N 139°42′E  Japan 
+Tolyatti 53°31′N 49°25′E  Russia 
+Tornio 65°51′N 24°09′E  Finland 
+Toronto 43°42′N 79°24′W  Canada 
+Torreón 25°32′N 103°27′W  Mexico 
+Toulouse 43°36′N 1°27′E  France 
+Townsville 19°15′S 146°49′E  Australia 
+Trelew 43°15′S 65°18′W  Argentina 
+Trenton 40°13′N 74°46′W  United States
+Tripoli 32°54′N 13°11′E  Libya 
+Trivandrum 8°29′N 76°57′E  India 
+Tromsø 69°41′N 18°57′E  Norway 
+Trondheim 63°26′N 10°24′E  Norway 
+Trujillo 8°07′S 79°02′W  Peru 
+Tskhinvali 42°14′N 43°58′E  Georgia 
+Tucson 32°13′N 110°56′W  United States
+Tuktoyaktuk 69°27′N 133°02′W  Canada 
+Tulsa 36°08′N 95°56′W  United States
+Tunis 36°48′N 10°11′E  Tunisia 
+Turin 45°04′N 7°42′E  Italy 
+Turku 60°27′N 22°16′E  Finland 
+Tórshavn 62°01′N 6°46′W  Denmark 
+Uberlândia 18°55′S 48°17′W  Brazil 
+Udon Thani 17°25′N 102°45′E  Thailand 
+Ufa 54°45′N 55°58′E  Russia 
+Ulaanbaatar 47°55′N 106°55′E  Mongolia 
+Umeå 63°50′N 20°16′E  Sweden 
+Upernavik 72°47′N 56°09′W  Denmark 
+Uppsala 59°51′N 17°39′E  Sweden 
+Ushuaia 54°48′S 68°18′W  Argentina 
+Utrecht 52°06′N 5°07′E  Netherlands 
+Utsjoki 69°54′N 27°01′E  Finland 
+Vaasa 63°06′N 21°37′E  Finland 
+Vadsø 70°05′N 29°44′E  Norway 
+Vaduz 47°08′N 9°31′E  Liechtenstein 
+Valdivia 39°49′S 73°15′W  Chile 
+Valencia 39°28′N 0°23′W  Spain 
+Valletta 35°54′N 14°31′E  Malta 
+Valparaíso 33°03′S 71°37′W  Chile 
+Vancouver 49°15′N 123°06′W  Canada 
+Vantaa 60°18′N 25°02′E  Finland 
+Vatican City 41°54′N 12°27′E  Vatican City
+Venice 45°26′N 12°20′E  Italy 
+Veracruz 19°11′N 96°09′W  Mexico 
+Verkhoyansk 67°33′N 133°23′E  Russia 
+Victoria 48°26′N 123°22′W  Canada 
+Vienna 48°13′N 16°22′E  Austria 
+Vientiane 17°58′N 102°36′E  Laos 
+Vilnius 54°41′N 25°17′E  Lithuania 
+Virginia Beach 36°51′N 75°59′W  United States
+Visakhapatnam 17°41′N 83°13′E  India 
+Vitória 20°19′S 40°20′W  Brazil 
+Vladivostok 43°08′N 131°54′E  Russia 
+Volgograd 48°42′N 44°31′E  Russia 
+Voronezh 51°40′N 39°13′E  Russia 
+Warsaw 52°14′N 21°01′E  Poland 
+Washington 38°54′N 77°02′W  United States
+Wellington 41°17′S 174°47′E  New Zealand
+Weno 7°27′N 151°51′E  Federated States of Micronesia
+Whitehorse 60°43′N 135°03′W  Canada 
+Wichita 37°41′N 97°20′W  United States
+Willemstad 12°07′N 68°56′W  Netherlands 
+Wilmington 34°13′N 77°55′W  United States
+Windhoek 22°34′S 17°05′E  Namibia 
+Windsor 42°17′N 83°00′W  Canada 
+Winnipeg 49°54′N 97°08′W  Canada 
+Wollongong 34°26′S 150°53′E  Australia 
+Wonsan 39°09′N 127°27′E  North Korea
+Wuhan 30°35′N 114°17′E  People's Republic of China
+Xi'an 34°16′N 108°54′E  People's Republic of China
+Xining 36°38′N 101°46′E  People's Republic of China
+Yakutsk 62°02′N 129°44′E  Russia 
+Yamoussoukro 6°49′N 5°17′W  Ivory Coast
+Yangon 16°48′N 96°09′E  Myanmar 
+Yaoundé 3°52′N 11°31′E  Cameroon 
+Yaren District 0°33′S 166°55′E  Nauru 
+Yarmouth 43°50′N 66°07′W  Canada 
+Yaroslavl 57°37′N 39°51′E  Russia 
+Yekaterinburg 56°50′N 60°35′E  Russia 
+Yellowknife 62°27′N 114°24′W  Canada 
+Yerevan 40°11′N 44°31′E  Armenia 
+Yogyakarta 7°48′S 110°22′E  Indonesia 
+Yokohama 35°27′N 139°38′E  Japan 
+Zagreb 45°49′N 15°59′E  Croatia 
+Zamboanga City 6°54′N 122°04′E  Philippines 
+Zanzibar City 6°10′S 39°12′E  Tanzania 
+Zapopan 20°43′N 103°24′W  Mexico 
+Zaragoza 41°39′N 0°53′W  Spain 
+Zhengzhou 34°46′N 113°39′E  People's Republic of China
+Zürich 47°22′N 8°33′E  Switzerland 
+Ísafjörður 66°05′N 23°08′W  Iceland 
+Örnsköldsvik 63°17′N 18°44′E  Sweden 
+Östersund 63°11′N 14°40′E  Sweden 
+Ürümqi 43°50′N 87°36′E  People's Republic of China
+İzmir 38°26′N 27°09′E  Turkey 
